@@ -11,9 +11,9 @@ OnAir is a social media app built with Flutter that leverages Firestore for its 
 ## Screenshots
 
 <!-- Include some screenshots of your app -->
-![Feed](screenshots/feed.png)
-![Group Chat](screenshots/group_chat.png)
-![Profile Page](screenshots/profile_page.png)
+![Feed](feed.png)
+![Group Chat](group_chat.png)
+![Profile Page](profile_page.png)
 
 ## Installation
 
